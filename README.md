@@ -1,5 +1,3 @@
-<img width="1405" height="750" alt="image" src="https://github.com/user-attachments/assets/5e035f1f-4f0f-48d3-93d0-65d18e4529aa" /># bd-project
-
 # Состав команды:
 Шарафутдинова Азалия Разифовна, ТОП-202Б
 Каскинова Гульюзум Ильшатовна, ТОП-202Б
